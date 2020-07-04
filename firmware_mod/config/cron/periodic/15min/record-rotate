@@ -1,0 +1,5 @@
+#!/bin/sh
+. /system/sdcard/scripts/common_functions.sh
+/system/sdcard/controlscripts/recording stop
+/system/sdcard/controlscripts/recording start
+
